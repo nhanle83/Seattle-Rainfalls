@@ -1,6 +1,6 @@
 # EXCESSIVE RAINFALLS IN SEATTLE 2014-2015
 
-This project analyze weather data provided by the FiveThirtyEight public data repository. I first discuss an objective for the project and report the main results from my visual analysis of the data. I then discuss how I clean and visualize the data with detailed explanation on the choices I made in the process. Last, I discuss how to improve on the project if time permits.
+This project analyze weather data provided by the FiveThirtyEight public data repository. I first discuss an objective for the project and report the main results from my visual analysis of the data. I then discuss how I clean and visualize the data with with emphasis on how I choose between alternative representations of the data. Last, I discuss how to improve on the project if time permits.
 
 ## Objective
 
