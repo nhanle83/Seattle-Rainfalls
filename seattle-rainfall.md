@@ -1,6 +1,6 @@
-# EXCESSIVE RAINFALLS IN STEATTLE 2014-2015
+# EXCESSIVE RAINFALLS IN SEATTLE 2014-2015
 
-This project analyze weather data provided by the FiveThirtyEight public data repository. I first discuss an objective for the project and report the main results from my visual analysis of the data. I then discuss how I clean and visualize the data with detailed explanation on the choices I made in the process. Last, I discuss how to improve on the project if time permits.
+This project analyze weather data provided by the FiveThirtyEight public data repository. I first discuss an objective for the project and report the main results from my visual analysis of the data. I then discuss how I clean and visualize the data with with emphasis on how I choose between alternative representations of the data. Last, I discuss how to improve on the project if time permits.
 
 ## Objective
 
@@ -16,7 +16,7 @@ The figure that best summarizes rainfalls pattern in Seattle for the one-year pe
 
 ![image info](./Figures/fig5.png)
 
-To construct this chart I first calculate the amount of daily rainfall *in excess of* daily historical averages. For each bar in the chart, I calculate the monthly average of excess rainfalls for all the days in each month. The chart reveals a number of important patterns from the data:
+To construct this chart I first calculate the amount of daily rainfall *in excess of* daily historical averages. For each bar in the chart, I calculate the monthly average of excess rainfalls for all the days in each month. The chart reveals four distinct seasonal periods in the data:
 
 - The fall period between August and November was exceptionally wet, even compared to Seattle's fabled rainy days. Rainfalls continued to accumulate throughout the perod to a peak at the end of November.
 
