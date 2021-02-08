@@ -2,6 +2,8 @@
 
 This project analyzes weather data provided by the FiveThirtyEight public data repository. I first discuss an objective for the project and report the main results from my visual analysis of the data. I then demonstrate how I clean and visualize the data with emphasis on how I choose between alternative representations of the data. Last, I propose how I would improve on the project if time permits.
 
+Complete work is stored in the notebook <https://github.com/nhanle83/Seattle-Rainfalls/blob/main/Excess_Rainfall_in_Seattle_2014_2015.ipynb>
+
 ## Objective
 
 My objective is to summarize a dataset of annual, daily precipitation in Seattle, WA during the one-year period starting in July 2014. To create a meaningful narrative of the data, I believe that it is important to first think about for whom and what purpose the data would be used even if this is mainly intended to be a technical excerise. This purpose helps me choose the most optimal visualization tool and articulate my choice transparently.
